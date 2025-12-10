@@ -1,4 +1,4 @@
-# CustomCustomerIntegrations
+# Launch Darkly Event Puller
 The repo contains public facing integrations and implementations. 
 
 #ReadMe This function ingests a Launch Darkly notification via webhook, translates it into readable fashion by Komodor and sends it to the Komodor Events tab
