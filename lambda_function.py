@@ -11,7 +11,7 @@ http = urllib3.PoolManager()
 #Insert your own Komodor API key as a value on line 14 or as a value from vault or other source
 
 
-KOMODOR_API_KEY = "f11f4ed1-b9c2-4dc2-983c-4f0be53bc98c"
+KOMODOR_API_KEY = <Insert Komodor API Key Here>
 KOMODOR_API_URL = "https://api.komodor.com/mgmt/v1/events"
 
 def lambda_handler(event, context):
